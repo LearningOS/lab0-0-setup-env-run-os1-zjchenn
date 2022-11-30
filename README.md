@@ -1,3 +1,7 @@
+完成了lab1要求的环境配置，结果如下：
+
+![](./img/env-setup.png)
+
 # Open-Source OS Training Comp 2022
 
 Welcome to Open-Source OS Training Comp 2022（欢迎加入2022 年开源操作系统训练营）
